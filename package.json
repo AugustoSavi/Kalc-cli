@@ -1,0 +1,16 @@
+{
+  "name": "Kalc-cli",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/AugustoSavi/Kalc-cli.git",
+  "author": "AugustoSavi <guto_savi@outlook.com>",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "kalc": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.1.0"
+  }
+}
